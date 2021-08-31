@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @LCerimeli
-- 👀 I’m interested a lot of stuff, but focusing on front-end.
-- 🌱 I’m currently learning basic front-end development.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Lucas Cerimeli
+- 🌱 I’m currently learning front-end development.
 - 📫 How to reach me: lucascerimeli@gmail.com
 
 <!---
