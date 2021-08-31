@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucas Cerimeli
-- 🌱 I’m currently learning front-end development.
+- 🌱 I’m currently learning HTML, CSS, Javascript, Node, Python
 - 📫 How to reach me: lucascerimeli@gmail.com
 
 <!---
